@@ -1,0 +1,84 @@
+# Translation of Plugins - [NPC] Neatek Post Connect - Development (trunk) in Russian
+# This file is distributed under the same license as the Plugins - [NPC] Neatek Post Connect - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-10-05 14:41:21+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - [NPC] Neatek Post Connect - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://neatek.ru/"
+msgstr "https://neatek.ru/"
+
+#. Author of the plugin/theme
+msgid "Vladimir Zhelnov"
+msgstr "Владимир Желнов"
+
+#. Description of the plugin/theme
+msgid "Many-to-many connections"
+msgstr "Соединение «многие-ко-многим»"
+
+#. Plugin Name of the plugin/theme
+msgid "(NPC) NeatekPostConnect"
+msgstr "(NPC) Neatek соединение записей «многие-ко-многим»"
+
+#: index.php:352
+msgid "Sorry, connected types not found."
+msgstr "Извините, соединенные типы не найдены."
+
+#: index.php:347
+msgid "Delete"
+msgstr "Удалить"
+
+#: index.php:341
+msgid "Connected types"
+msgstr "Соединенные типы записей"
+
+#: index.php:337
+msgid "Connect"
+msgstr "Соединить"
+
+#: index.php:324
+msgid "Connect two types of posts"
+msgstr "Соединить два типа записей"
+
+#: index.php:263
+msgid "You do not have sufficient permissions to access this page."
+msgstr "У вас недостаточно прав для доступа к этой странице."
+
+#: index.php:243
+msgid "Unlink"
+msgstr "Разъединить"
+
+#: index.php:241
+msgid "Link"
+msgstr "Соединить"
+
+#: index.php:89 index.php:164 index.php:249
+msgid "Sorry, posts not found."
+msgstr "Извините, записей не найдено."
+
+#: index.php:76
+msgid "Connected posts"
+msgstr "Соединенные записи"
+
+#: index.php:72
+msgid "Search"
+msgstr "Найти"
+
+#: index.php:71
+msgid "Enter title"
+msgstr "Введите название"
+
+#: index.php:70
+msgid "Searching"
+msgstr "Поиск"
+
+#: index.php:48
+msgid "Connect posts"
+msgstr "Соединить записи"
